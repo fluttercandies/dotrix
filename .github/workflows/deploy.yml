@@ -34,7 +34,7 @@ jobs:
 
       - name: Build web application
         working-directory: example
-        run: flutter build web --release --base-href /dotrix/
+        run: flutter build web --release --base-href /
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
