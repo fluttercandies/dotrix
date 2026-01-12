@@ -12,6 +12,10 @@ A Flutter dot matrix animation indicator library with 28 beautiful effects.
 - 📦 **Zero Dependencies**: Pure Flutter implementation, no external packages needed
 - 💎 **Production Ready**: Well-tested, performant, and easy to integrate
 
+## Preview
+
+✨ **Live Demo**: Check out all 28 animations in action at [https://dotrix.letx.fun/](https://dotrix.letx.fun/)
+
 ## Getting Started
 
 Add this to your package's `pubspec.yaml` file:
